@@ -1,5 +1,7 @@
 # Mass Points Explorer (Vue + Mapbox + deck.gl)
 
+<img width="2551" height="911" alt="image" src="https://github.com/user-attachments/assets/fb70cf3f-2cfa-4827-ad8c-9fa2654de4d1" />
+
 A Vue 3 single-page app that renders **50k–250k** geographic points on a Mapbox basemap using deck.gl, with **live (10+ Hz) slider scrubbing** and instant category filtering.
 
 ## Technologies
