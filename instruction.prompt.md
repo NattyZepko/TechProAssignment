@@ -6,8 +6,6 @@ A Vue 3 single-page application that displays a large number of geographic point
 
 # Required Deliverables
 
-- DESIGN.md, explanation and justification of the architecture, every discision must be written in first-person (I chose...)
-- NOTES.md, reflection on learning, trade-offs, and validation
 - Tests (unit and/or instrumentation)
 - README.md with setup instructions
 - package.json and lockfile
@@ -59,7 +57,6 @@ Filtering must be instant during scrubbing and must satisfy all four constraints
 3. The main dataset reference must remain stable after load. The underlying data array must not change identity, and filter changes must not mutate or replace the base dataset.
 4. Filter changes must be applied incrementally (lightweight updates). Use deck.gl update mechanisms efficiently so updates trigger minimal recomputation.
 
-We you must explain and justify it in DESIGN.md, after implementing the solution.
 Performance Target: Each filter update should complete in under 100 ms, even with 250k points and rapid scrubbing.
 
 # Testing Expectations
@@ -101,7 +98,7 @@ This requirement exists solely to enable objective performance testing. You have
 
 # Common Pitfalls to Avoid
 
-Common issues include CPU filtering by rebuilding arrays on every render, recreating layers on each update, missing validation of constraints, copying AI phrasing into DESIGN.md, failing to test live scrubbing behavior, and relying on timing-based tests instead of instrumentation.
+Common issues include CPU filtering by rebuilding arrays on every render, recreating layers on each update, missing validation of constraints, failing to test live scrubbing behavior, and relying on timing-based tests instead of instrumentation.
 Be sure to avoid these, and be careful to follow the instructions carefully.
 
 # Programming specific requests
@@ -112,17 +109,3 @@ Be sure to avoid these, and be careful to follow the instructions carefully.
 - Name variables and functions clearly to reflect their purpose, without abbreviations that may confuse future readers.
 - We will make a separated script for generating points deteministicly, to fill the seed-points.json with values, let's say, 500 points. The script should produce the same points with the same values and categorization every time, and override the existing data (so that we don't get duplications if we run it again).
   To test the case where source data does not include these fields and we derive them deterministically, lets obfuscate some fields on purpose in order to test the process of completing these outselves (again, should be deterministic).
-
-# DESIGN.md Expectations
-
-We must Reflect on the following areas:
-A. Learning Journey
-What we learned about Mapbox, deck.gl, or GPU rendering, what concepts were initially confusing or counterintuitive, and how our understanding evolved during the exercise.
-B. Validation Process
-How we validated our solution meets the constraints, what testing or instrumentation we used, and any surprises or bugs we discovered.
-C. Design Evolution
-What assumptions were wrong or incomplete, what changed from your initial approach, and what worked well versus what did not.
-D. Known Limitations
-What we would improve with more time, edge cases or scenarios not fully handled, and remaining performance bottlenecks.
-E. AI Usage Reflection
-How exactly you helped my learning and implementation, where AI struggled or gave incorrect guidance, and what we should do differently next time. Every time a major change is occuring, we may want to update that file.

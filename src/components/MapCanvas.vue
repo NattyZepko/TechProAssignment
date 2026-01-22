@@ -73,6 +73,7 @@ onMounted(() => {
 		bearing: props.initialViewState.bearing,
 		pitch: props.initialViewState.pitch,
 		antialias: true,
+		projection: 'mercator',
 	});
 
 	map.on('load', () => {
