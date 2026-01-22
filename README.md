@@ -13,8 +13,6 @@ A Vue 3 single-page app that renders **50k–250k** geographic points on a Mapbo
 
 ## Quick links (repo source)
 
-If you’re viewing this on GitHub, these links should work as-is.
-
 - App state + instrumentation exposure: [src/App.vue](src/App.vue)
 - Mapbox + deck.gl integration: [src/components/MapCanvas.vue](src/components/MapCanvas.vue)
 - Shared layer factory: [src/layers/createPointsLayer.js](src/layers/createPointsLayer.js)
