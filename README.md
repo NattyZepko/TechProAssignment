@@ -20,9 +20,6 @@ A Vue 3 single-page app that renders **50k–250k** geographic points on a Mapbo
 - Data pipeline (load → normalize → expand): [src/data/loadAndPreparePoints.js](src/data/loadAndPreparePoints.js)
 - Categories config: [src/config/categories.js](src/config/categories.js)
 - Key constants: [src/constants/geo.js](src/constants/geo.js) and [src/constants/pointsExpansion.js](src/constants/pointsExpansion.js)
-- MapCanvas: https://github.com/NattyZepko/TechProAssignment/blob/main/src/components/MapCanvas.vue
-- App: https://github.com/NattyZepko/TechProAssignment/blob/main/src/App.vue
-- Constraints tests: https://github.com/NattyZepko/TechProAssignment/blob/main/src/data/__tests__/constraints.test.js
 
 ## Architecture overview
 
