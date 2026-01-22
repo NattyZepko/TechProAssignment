@@ -2,35 +2,119 @@
 
 A Vue 3 single-page app that renders **50k–250k** geographic points on a Mapbox basemap using deck.gl, with **live (10+ Hz) slider scrubbing** and instant category filtering.
 
-## Setup
+## Technologies
 
-1. Install deps
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Mapbox GL JS](https://img.shields.io/badge/Mapbox%20GL%20JS-3-000000?logo=mapbox&logoColor=white)](https://docs.mapbox.com/mapbox-gl-js/)
+[![deck.gl](https://img.shields.io/badge/deck.gl-9-1a1a1a)](https://deck.gl/)
+[![Vitest](https://img.shields.io/badge/Vitest-1-6e9f18?logo=vitest&logoColor=white)](https://vitest.dev/)
+
+## Quick links (repo source)
+
+If you’re viewing this on GitHub, these links should work as-is.
+
+- App state + instrumentation exposure: [src/App.vue](src/App.vue)
+- Mapbox + deck.gl integration: [src/components/MapCanvas.vue](src/components/MapCanvas.vue)
+- Shared layer factory: [src/layers/createPointsLayer.js](src/layers/createPointsLayer.js)
+- Filter updates (GPU props only): [src/filters/applyLayerFilters.js](src/filters/applyLayerFilters.js)
+- Data pipeline (load → normalize → expand): [src/data/loadAndPreparePoints.js](src/data/loadAndPreparePoints.js)
+- Categories config: [src/config/categories.js](src/config/categories.js)
+- Key constants: [src/constants/geo.js](src/constants/geo.js) and [src/constants/pointsExpansion.js](src/constants/pointsExpansion.js)
+
+Example “blob” URLs (after you push to GitHub):
+
+- MapCanvas: https://github.com/NattyZepko/TechProAssignment/blob/main/src/components/MapCanvas.vue
+- App: https://github.com/NattyZepko/TechProAssignment/blob/main/src/App.vue
+- Constraints tests: https://github.com/NattyZepko/TechProAssignment/blob/main/src/data/__tests__/constraints.test.js
+
+## Architecture overview
+
+The architecture is designed around the constraints: keep the base dataset stable, keep the layer stable, and update only lightweight GPU filter props during live interactions.
+
+```text
+scripts/generate-seed-points.mjs
+	|
+	v
+public/seed-points.json
+	|
+	v
+loadAndPreparePoints()
+  | normalizeSeedPoints()
+  | expandPoints()  -> (points array + meta.valueDomain)
+	|
+	v
+App.vue
+  - owns stable `points` array (filled in-place)
+  - owns filter state (value range + categories)
+  - exposes window.__MASS_POINTS_EXPLORER__ for instrumentation
+	|
+	| props: points[], categories, initialViewState
+	v
+MapCanvas.vue
+  - Mapbox GL JS map
+  - deck.gl MapboxLayer wrapping ScatterplotLayer
+  - DataFilterExtension (GPU filtering)
+	|
+	| applyLayerFilters(): layer.setProps({ filterRange, filterCategories })
+	v
+GPU filtering (no JS data filtering during scrubbing)
+```
+
+## Setup & Run
+
+### 1) Install dependencies
 
 ```bash
 npm install
 ```
 
-2. Ensure Mapbox token exists
+### 2) Set Mapbox token
 
-- Create `.env` with:
+Create a local `.env` file:
 
 ```bash
 VITE_MAPBOX_TOKEN=...your token...
 ```
 
-(`.env.example` documents the expected variable name.)
+See [.env.example](.env.example) for the expected variable name.
 
-3. Generate deterministic seed data
+### 3) (Optional) Regenerate deterministic seed
+
+This overwrites the seed file deterministically.
 
 ```bash
 npm run generate:seed
 ```
 
-4. Run the app
+### 4) Start dev server
 
 ```bash
 npm run dev
 ```
+
+### Build / Preview
+
+```bash
+npm run build
+npm run preview
+```
+
+## Configuration (constants you can modify)
+
+- Target dataset size: `TARGET_POINT_COUNT` in [src/constants/geo.js](src/constants/geo.js)
+- Value range domain: `VALUE_MIN` / `VALUE_MAX` in [src/constants/geo.js](src/constants/geo.js)
+- Default camera: `DEFAULT_VIEW_STATE` in [src/constants/geo.js](src/constants/geo.js)
+- Expansion behavior (spread + drift):
+  - `POINT_EXPANSION_JITTER_SPAN_DEGREES`
+  - `POINT_EXPANSION_VALUE_DRIFT_MAX_ABS`
+
+  in [src/constants/pointsExpansion.js](src/constants/pointsExpansion.js)
+
+- Categories (ids/labels/colors): edit `CATEGORIES` in [src/config/categories.js](src/config/categories.js)
+
+After changing constants, restart `npm run dev`.
 
 ## What to look at
 
@@ -56,6 +140,18 @@ Run unit/instrumentation tests:
 ```bash
 npm run test:run
 ```
+
+## What the tests validate (constraints coverage)
+
+- [src/data/**tests**/normalizePoints.test.js](src/data/__tests__/normalizePoints.test.js)
+  - validates deterministic derivation of missing fields during normalization
+- [src/data/**tests**/filterCorrectness.test.js](src/data/__tests__/filterCorrectness.test.js)
+  - validates combined filter logic (value range + category) is correct
+- [src/data/**tests**/constraints.test.js](src/data/__tests__/constraints.test.js)
+  - validates no CPU filtering (`Array.prototype.filter` / `Array.prototype.map`) during filter updates
+  - validates stable dataset reference across repeated filter updates
+  - validates stable layer instance across repeated filter updates
+  - validates scrubbing only updates lightweight layer props (`filterRange` / `filterCategories`)
 
 The tests cover:
 
