@@ -1,0 +1,2828 @@
+[
+	{
+		"position": [-122.649353, 37.834303]
+	},
+	{
+		"position": [-122.761659, 37.488628],
+		"id": "seed_1",
+		"value": 72,
+		"category": "beta"
+	},
+	{
+		"position": [-122.228158, 37.679154],
+		"id": "seed_2",
+		"value": 17,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.12258, 37.996977],
+		"id": "seed_3",
+		"value": 10,
+		"category": "delta"
+	},
+	{
+		"position": [-122.133818, 37.578815],
+		"id": "seed_4",
+		"value": 6,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.312883, 37.827284],
+		"id": "seed_5",
+		"value": 23,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.692293, 37.60598],
+		"id": "seed_6",
+		"value": 75,
+		"category": "beta"
+	},
+	{
+		"position": [-122.131947, 37.548608],
+		"value": 87,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.643529, 37.880814],
+		"id": "seed_8",
+		"value": 4,
+		"category": "delta"
+	},
+	{
+		"position": [-122.080559, 38.023659],
+		"id": "seed_9",
+		"value": 72
+	},
+	{
+		"position": [-122.233604, 38.001284],
+		"id": "seed_10",
+		"value": 10,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.200025, 37.694819],
+		"id": "seed_11",
+		"category": "beta"
+	},
+	{
+		"position": [-122.469548, 37.821685],
+		"id": "seed_12",
+		"value": 20,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.176504, 37.733591],
+		"id": "seed_13",
+		"value": 98,
+		"category": "delta"
+	},
+	{
+		"position": [-122.448464, 37.895038],
+		"value": 93,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.18937, 37.82294],
+		"id": "seed_15",
+		"value": 69,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.702781, 37.484813],
+		"id": "seed_16",
+		"value": 67,
+		"category": "beta"
+	},
+	{
+		"position": [-122.700099, 37.638753],
+		"id": "seed_17",
+		"value": 51,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.080539, 37.546795],
+		"id": "seed_18",
+		"value": 54
+	},
+	{
+		"position": [-122.733925, 37.804023],
+		"id": "seed_19",
+		"value": 26,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.541747, 38.024578],
+		"id": "seed_20",
+		"value": 4,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.202399, 38.063295],
+		"value": 36,
+		"category": "beta"
+	},
+	{
+		"position": [-122.764252, 37.632964],
+		"id": "seed_22",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.747927, 37.543079],
+		"id": "seed_23",
+		"value": 96,
+		"category": "delta"
+	},
+	{
+		"position": [-122.759439, 37.555002],
+		"id": "seed_24",
+		"value": 69,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.397938, 37.849046],
+		"id": "seed_25",
+		"value": 12,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.702227, 37.662744],
+		"id": "seed_26",
+		"value": 44,
+		"category": "beta"
+	},
+	{
+		"position": [-122.614201, 37.926588],
+		"id": "seed_27",
+		"value": 41
+	},
+	{
+		"position": [-122.380202, 37.988394],
+		"value": 82,
+		"category": "delta"
+	},
+	{
+		"position": [-122.844185, 38.063095],
+		"id": "seed_29",
+		"value": 88,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.230195, 37.686488],
+		"id": "seed_30",
+		"value": 39,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.260565, 37.51416],
+		"id": "seed_31",
+		"value": 17,
+		"category": "beta"
+	},
+	{
+		"position": [-122.071683, 38.037348],
+		"id": "seed_32",
+		"value": 46,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.633518, 37.649502],
+		"id": "seed_33",
+		"category": "delta"
+	},
+	{
+		"position": [-122.383872, 37.792352],
+		"id": "seed_34",
+		"value": 27,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.290621, 37.742556],
+		"value": 29,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.72396, 37.81227],
+		"id": "seed_36",
+		"value": 70
+	},
+	{
+		"position": [-122.269721, 38.058684],
+		"id": "seed_37",
+		"value": 89,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.389631, 37.82397],
+		"id": "seed_38",
+		"value": 58,
+		"category": "delta"
+	},
+	{
+		"position": [-122.243062, 38.070456],
+		"id": "seed_39",
+		"value": 17,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.060827, 37.527691],
+		"id": "seed_40",
+		"value": 97,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.466822, 37.842347],
+		"id": "seed_41",
+		"value": 72,
+		"category": "beta"
+	},
+	{
+		"position": [-122.468666, 37.934772],
+		"value": 74,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.721478, 38.02474],
+		"id": "seed_43",
+		"value": 46,
+		"category": "delta"
+	},
+	{
+		"position": [-122.350591, 37.893426],
+		"id": "seed_44",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.380216, 37.900792],
+		"id": "seed_45",
+		"value": 76
+	},
+	{
+		"position": [-122.407532, 37.903734],
+		"id": "seed_46",
+		"value": 83,
+		"category": "beta"
+	},
+	{
+		"position": [-122.205241, 37.529435],
+		"id": "seed_47",
+		"value": 23,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.27408, 37.507772],
+		"id": "seed_48",
+		"value": 59,
+		"category": "delta"
+	},
+	{
+		"position": [-122.490637, 37.502499],
+		"value": 52,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.512768, 37.78544],
+		"id": "seed_50",
+		"value": 4,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.154797, 37.879602],
+		"id": "seed_51",
+		"value": 1,
+		"category": "beta"
+	},
+	{
+		"position": [-122.445335, 38.008216],
+		"id": "seed_52",
+		"value": 53,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.121028, 37.642909],
+		"id": "seed_53",
+		"value": 55,
+		"category": "delta"
+	},
+	{
+		"position": [-122.236173, 37.824217],
+		"id": "seed_54",
+		"value": 43
+	},
+	{
+		"position": [-122.699527, 37.709022],
+		"id": "seed_55",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.475154, 37.900409],
+		"value": 22,
+		"category": "beta"
+	},
+	{
+		"position": [-122.148949, 37.53804],
+		"id": "seed_57",
+		"value": 3,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.102835, 37.534401],
+		"id": "seed_58",
+		"value": 63,
+		"category": "delta"
+	},
+	{
+		"position": [-122.341472, 37.67284],
+		"id": "seed_59",
+		"value": 38,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.485505, 37.538397],
+		"id": "seed_60",
+		"value": 83,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.416074, 37.901007],
+		"id": "seed_61",
+		"value": 31,
+		"category": "beta"
+	},
+	{
+		"position": [-122.289036, 37.673439],
+		"id": "seed_62",
+		"value": 22,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.782315, 37.666492],
+		"value": 39
+	},
+	{
+		"position": [-122.695512, 37.923054],
+		"id": "seed_64",
+		"value": 38,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.525631, 37.876043],
+		"id": "seed_65",
+		"value": 53,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.359535, 37.819558],
+		"id": "seed_66",
+		"category": "beta"
+	},
+	{
+		"position": [-122.252951, 38.050324],
+		"id": "seed_67",
+		"value": 38,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.371726, 37.587126],
+		"id": "seed_68",
+		"value": 92,
+		"category": "delta"
+	},
+	{
+		"position": [-122.315895, 37.559606],
+		"id": "seed_69",
+		"value": 12,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.827728, 37.896174],
+		"value": 69,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.837732, 38.031799],
+		"id": "seed_71",
+		"value": 3,
+		"category": "beta"
+	},
+	{
+		"position": [-122.143797, 37.746971],
+		"id": "seed_72",
+		"value": 83
+	},
+	{
+		"position": [-122.742352, 37.710968],
+		"id": "seed_73",
+		"value": 64,
+		"category": "delta"
+	},
+	{
+		"position": [-122.208411, 37.651197],
+		"id": "seed_74",
+		"value": 18,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.453676, 37.825223],
+		"id": "seed_75",
+		"value": 73,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.413972, 37.578712],
+		"id": "seed_76",
+		"value": 44,
+		"category": "beta"
+	},
+	{
+		"position": [-122.432705, 37.625939],
+		"category": "gamma"
+	},
+	{
+		"position": [-122.768685, 37.700277],
+		"id": "seed_78",
+		"value": 9,
+		"category": "delta"
+	},
+	{
+		"position": [-122.581638, 38.048773],
+		"id": "seed_79",
+		"value": 21,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.845035, 37.664876],
+		"id": "seed_80",
+		"value": 51,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.51238, 37.534404],
+		"id": "seed_81",
+		"value": 26
+	},
+	{
+		"position": [-122.71807, 37.961563],
+		"id": "seed_82",
+		"value": 88,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.594227, 37.49603],
+		"id": "seed_83",
+		"value": 33,
+		"category": "delta"
+	},
+	{
+		"position": [-122.754422, 37.645704],
+		"value": 55,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.097246, 37.570779],
+		"id": "seed_85",
+		"value": 44,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.600605, 37.966867],
+		"id": "seed_86",
+		"value": 60,
+		"category": "beta"
+	},
+	{
+		"position": [-122.168142, 37.956019],
+		"id": "seed_87",
+		"value": 96,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.136046, 37.558467],
+		"id": "seed_88",
+		"category": "delta"
+	},
+	{
+		"position": [-122.14313, 37.562939],
+		"id": "seed_89",
+		"value": 39,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.669317, 37.767545],
+		"id": "seed_90",
+		"value": 44
+	},
+	{
+		"position": [-122.52218, 37.741283],
+		"value": 49,
+		"category": "beta"
+	},
+	{
+		"position": [-122.075798, 38.04108],
+		"id": "seed_92",
+		"value": 20,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.15273, 37.818672],
+		"id": "seed_93",
+		"value": 59,
+		"category": "delta"
+	},
+	{
+		"position": [-122.422638, 37.535487],
+		"id": "seed_94",
+		"value": 91,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.514005, 37.96629],
+		"id": "seed_95",
+		"value": 36,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.583907, 37.843215],
+		"id": "seed_96",
+		"value": 75,
+		"category": "beta"
+	},
+	{
+		"position": [-122.791732, 37.607829],
+		"id": "seed_97",
+		"value": 26,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.221521, 37.809094],
+		"value": 89,
+		"category": "delta"
+	},
+	{
+		"position": [-122.360291, 37.500435],
+		"id": "seed_99"
+	},
+	{
+		"position": [-122.351353, 37.714604],
+		"id": "seed_100",
+		"value": 37,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.429468, 37.521003],
+		"id": "seed_101",
+		"value": 67,
+		"category": "beta"
+	},
+	{
+		"position": [-122.089597, 37.891567],
+		"id": "seed_102",
+		"value": 83,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.34982, 37.482505],
+		"id": "seed_103",
+		"value": 98,
+		"category": "delta"
+	},
+	{
+		"position": [-122.560287, 38.008792],
+		"id": "seed_104",
+		"value": 67,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.441484, 37.619552],
+		"value": 60,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.3787, 37.792658],
+		"id": "seed_106",
+		"value": 52,
+		"category": "beta"
+	},
+	{
+		"position": [-122.544306, 37.530875],
+		"id": "seed_107",
+		"value": 60,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.177849, 38.067539],
+		"id": "seed_108",
+		"value": 1
+	},
+	{
+		"position": [-122.433111, 38.018989],
+		"id": "seed_109",
+		"value": 80,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.234016, 37.681024],
+		"id": "seed_110",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.780942, 37.894127],
+		"id": "seed_111",
+		"value": 43,
+		"category": "beta"
+	},
+	{
+		"position": [-122.202736, 37.665924],
+		"value": 61,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.849955, 37.616115],
+		"id": "seed_113",
+		"value": 79,
+		"category": "delta"
+	},
+	{
+		"position": [-122.270996, 37.859488],
+		"id": "seed_114",
+		"value": 45,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.321224, 37.73913],
+		"id": "seed_115",
+		"value": 14,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.168041, 37.739808],
+		"id": "seed_116",
+		"value": 84,
+		"category": "beta"
+	},
+	{
+		"position": [-122.096795, 37.734119],
+		"id": "seed_117",
+		"value": 61
+	},
+	{
+		"position": [-122.23319, 37.574254],
+		"id": "seed_118",
+		"value": 4,
+		"category": "delta"
+	},
+	{
+		"position": [-122.83348, 38.023748],
+		"value": 64,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.223788, 37.91837],
+		"id": "seed_120",
+		"value": 95,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.279746, 37.513703],
+		"id": "seed_121",
+		"category": "beta"
+	},
+	{
+		"position": [-122.279094, 38.002301],
+		"id": "seed_122",
+		"value": 89,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.618176, 37.532517],
+		"id": "seed_123",
+		"value": 94,
+		"category": "delta"
+	},
+	{
+		"position": [-122.430972, 37.601021],
+		"id": "seed_124",
+		"value": 38,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.765164, 37.840142],
+		"id": "seed_125",
+		"value": 83,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.813669, 37.977104],
+		"value": 30
+	},
+	{
+		"position": [-122.562339, 38.034896],
+		"id": "seed_127",
+		"value": 91,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.145771, 37.898116],
+		"id": "seed_128",
+		"value": 32,
+		"category": "delta"
+	},
+	{
+		"position": [-122.322321, 37.877631],
+		"id": "seed_129",
+		"value": 33,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.426271, 37.844435],
+		"id": "seed_130",
+		"value": 28,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.176048, 37.684876],
+		"id": "seed_131",
+		"value": 35,
+		"category": "beta"
+	},
+	{
+		"position": [-122.671646, 38.055564],
+		"id": "seed_132",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.484495, 37.61106],
+		"value": 64,
+		"category": "delta"
+	},
+	{
+		"position": [-122.551489, 37.856753],
+		"id": "seed_134",
+		"value": 84,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.754864, 37.714122],
+		"id": "seed_135",
+		"value": 69
+	},
+	{
+		"position": [-122.827317, 37.658727],
+		"id": "seed_136",
+		"value": 30,
+		"category": "beta"
+	},
+	{
+		"position": [-122.845102, 37.775931],
+		"id": "seed_137",
+		"value": 33,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.821244, 37.719116],
+		"id": "seed_138",
+		"value": 3,
+		"category": "delta"
+	},
+	{
+		"position": [-122.806473, 37.628848],
+		"id": "seed_139",
+		"value": 24,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.18983, 37.804489],
+		"value": 44,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.538586, 37.73283],
+		"id": "seed_141",
+		"value": 41,
+		"category": "beta"
+	},
+	{
+		"position": [-122.286555, 37.971513],
+		"id": "seed_142",
+		"value": 93,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.535705, 37.887874],
+		"id": "seed_143",
+		"category": "delta"
+	},
+	{
+		"position": [-122.268832, 37.929978],
+		"id": "seed_144",
+		"value": 78
+	},
+	{
+		"position": [-122.187861, 37.904579],
+		"id": "seed_145",
+		"value": 10,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.09751, 37.573599],
+		"id": "seed_146",
+		"value": 74,
+		"category": "beta"
+	},
+	{
+		"position": [-122.243567, 37.4953],
+		"value": 91,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.197225, 38.074332],
+		"id": "seed_148",
+		"value": 13,
+		"category": "delta"
+	},
+	{
+		"position": [-122.667671, 37.953322],
+		"id": "seed_149",
+		"value": 10,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.826689, 37.515503],
+		"id": "seed_150",
+		"value": 76,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.749085, 37.523802],
+		"id": "seed_151",
+		"value": 73,
+		"category": "beta"
+	},
+	{
+		"position": [-122.552091, 37.704615],
+		"id": "seed_152",
+		"value": 40,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.353755, 37.831862],
+		"id": "seed_153",
+		"value": 30
+	},
+	{
+		"position": [-122.675709, 37.615266],
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.824858, 38.038652],
+		"id": "seed_155",
+		"value": 14,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.57772, 37.962143],
+		"id": "seed_156",
+		"value": 51,
+		"category": "beta"
+	},
+	{
+		"position": [-122.354596, 37.842297],
+		"id": "seed_157",
+		"value": 82,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.446123, 38.009518],
+		"id": "seed_158",
+		"value": 32,
+		"category": "delta"
+	},
+	{
+		"position": [-122.57093, 37.491131],
+		"id": "seed_159",
+		"value": 60,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.768124, 37.511292],
+		"id": "seed_160",
+		"value": 48,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.167489, 38.039395],
+		"value": 77,
+		"category": "beta"
+	},
+	{
+		"position": [-122.708306, 37.896564],
+		"id": "seed_162",
+		"value": 45
+	},
+	{
+		"position": [-122.487754, 37.699838],
+		"id": "seed_163",
+		"value": 3,
+		"category": "delta"
+	},
+	{
+		"position": [-122.513936, 37.660543],
+		"id": "seed_164",
+		"value": 72,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.25245, 37.520217],
+		"id": "seed_165",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.817005, 37.645411],
+		"id": "seed_166",
+		"value": 94,
+		"category": "beta"
+	},
+	{
+		"position": [-122.582322, 37.773218],
+		"id": "seed_167",
+		"value": 42,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.57909, 37.529907],
+		"value": 90,
+		"category": "delta"
+	},
+	{
+		"position": [-122.40398, 37.893842],
+		"id": "seed_169",
+		"value": 16,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.434911, 37.966693],
+		"id": "seed_170",
+		"value": 80,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.325484, 38.064897],
+		"id": "seed_171",
+		"value": 8
+	},
+	{
+		"position": [-122.808232, 37.606402],
+		"id": "seed_172",
+		"value": 37,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.767835, 38.010271],
+		"id": "seed_173",
+		"value": 90,
+		"category": "delta"
+	},
+	{
+		"position": [-122.562129, 37.600495],
+		"id": "seed_174",
+		"value": 89,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.750212, 38.038261],
+		"value": 95,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.781863, 38.041365],
+		"id": "seed_176",
+		"category": "beta"
+	},
+	{
+		"position": [-122.246988, 37.805436],
+		"id": "seed_177",
+		"value": 11,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.512888, 38.032205],
+		"id": "seed_178",
+		"value": 91,
+		"category": "delta"
+	},
+	{
+		"position": [-122.549488, 38.055182],
+		"id": "seed_179",
+		"value": 84,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.342543, 37.849553],
+		"id": "seed_180",
+		"value": 86
+	},
+	{
+		"position": [-122.64683, 37.533027],
+		"id": "seed_181",
+		"value": 33,
+		"category": "beta"
+	},
+	{
+		"position": [-122.767462, 37.734764],
+		"value": 55,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.094549, 38.00262],
+		"id": "seed_183",
+		"value": 62,
+		"category": "delta"
+	},
+	{
+		"position": [-122.134436, 37.797457],
+		"id": "seed_184",
+		"value": 67,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.809011, 37.567074],
+		"id": "seed_185",
+		"value": 96,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.623472, 38.046559],
+		"id": "seed_186",
+		"value": 59,
+		"category": "beta"
+	},
+	{
+		"position": [-122.592014, 37.820519],
+		"id": "seed_187",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.560109, 37.523386],
+		"id": "seed_188",
+		"value": 55,
+		"category": "delta"
+	},
+	{
+		"position": [-122.079088, 37.560975],
+		"value": 71
+	},
+	{
+		"position": [-122.082326, 37.859428],
+		"id": "seed_190",
+		"value": 38,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.482034, 37.553808],
+		"id": "seed_191",
+		"value": 17,
+		"category": "beta"
+	},
+	{
+		"position": [-122.22399, 38.013331],
+		"id": "seed_192",
+		"value": 30,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.139426, 38.055202],
+		"id": "seed_193",
+		"value": 4,
+		"category": "delta"
+	},
+	{
+		"position": [-122.156839, 37.486809],
+		"id": "seed_194",
+		"value": 11,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.433749, 37.767704],
+		"id": "seed_195",
+		"value": 79,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.566972, 37.649621],
+		"value": 86,
+		"category": "beta"
+	},
+	{
+		"position": [-122.175369, 37.74598],
+		"id": "seed_197",
+		"value": 73,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.475425, 37.687135],
+		"id": "seed_198"
+	},
+	{
+		"position": [-122.806952, 37.701242],
+		"id": "seed_199",
+		"value": 35,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.363618, 37.610841],
+		"id": "seed_200",
+		"value": 58,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.738818, 37.876791],
+		"id": "seed_201",
+		"value": 93,
+		"category": "beta"
+	},
+	{
+		"position": [-122.07768, 37.686342],
+		"id": "seed_202",
+		"value": 24,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.31136, 37.855975],
+		"value": 47,
+		"category": "delta"
+	},
+	{
+		"position": [-122.594979, 37.880622],
+		"id": "seed_204",
+		"value": 4,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.54913, 37.536104],
+		"id": "seed_205",
+		"value": 33,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.217428, 38.037651],
+		"id": "seed_206",
+		"value": 80,
+		"category": "beta"
+	},
+	{
+		"position": [-122.474566, 37.912259],
+		"id": "seed_207",
+		"value": 75
+	},
+	{
+		"position": [-122.232999, 37.725791],
+		"id": "seed_208",
+		"value": 5,
+		"category": "delta"
+	},
+	{
+		"position": [-122.599399, 37.994497],
+		"id": "seed_209",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.556697, 37.556613],
+		"value": 93,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.239109, 37.684028],
+		"id": "seed_211",
+		"value": 23,
+		"category": "beta"
+	},
+	{
+		"position": [-122.7604, 37.545848],
+		"id": "seed_212",
+		"value": 84,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.799453, 37.917521],
+		"id": "seed_213",
+		"value": 24,
+		"category": "delta"
+	},
+	{
+		"position": [-122.306843, 37.571551],
+		"id": "seed_214",
+		"value": 98,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.176945, 37.93579],
+		"id": "seed_215",
+		"value": 33,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.299787, 37.895281],
+		"id": "seed_216",
+		"value": 86
+	},
+	{
+		"position": [-122.158013, 37.641064],
+		"value": 78,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.536367, 37.551307],
+		"id": "seed_218",
+		"value": 93,
+		"category": "delta"
+	},
+	{
+		"position": [-122.110723, 37.7818],
+		"id": "seed_219",
+		"value": 99,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.15176, 37.906595],
+		"id": "seed_220",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.675566, 37.921369],
+		"id": "seed_221",
+		"value": 27,
+		"category": "beta"
+	},
+	{
+		"position": [-122.08069, 37.95816],
+		"id": "seed_222",
+		"value": 19,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.166992, 37.661016],
+		"id": "seed_223",
+		"value": 20,
+		"category": "delta"
+	},
+	{
+		"position": [-122.722274, 38.05907],
+		"value": 38,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.647548, 37.652386],
+		"id": "seed_225",
+		"value": 70
+	},
+	{
+		"position": [-122.594261, 37.683776],
+		"id": "seed_226",
+		"value": 2,
+		"category": "beta"
+	},
+	{
+		"position": [-122.585316, 38.005179],
+		"id": "seed_227",
+		"value": 33,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.816588, 37.847763],
+		"id": "seed_228",
+		"value": 84,
+		"category": "delta"
+	},
+	{
+		"position": [-122.095402, 37.940726],
+		"id": "seed_229",
+		"value": 66,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.451693, 37.793435],
+		"id": "seed_230",
+		"value": 38,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.588184, 38.079301],
+		"category": "beta"
+	},
+	{
+		"position": [-122.649471, 38.009283],
+		"id": "seed_232",
+		"value": 16,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.848456, 37.647467],
+		"id": "seed_233",
+		"value": 47,
+		"category": "delta"
+	},
+	{
+		"position": [-122.754818, 37.781589],
+		"id": "seed_234",
+		"value": 82
+	},
+	{
+		"position": [-122.192541, 37.749301],
+		"id": "seed_235",
+		"value": 32,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.619178, 37.65584],
+		"id": "seed_236",
+		"value": 95,
+		"category": "beta"
+	},
+	{
+		"position": [-122.094145, 37.641521],
+		"id": "seed_237",
+		"value": 48,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.486429, 37.687773],
+		"value": 22,
+		"category": "delta"
+	},
+	{
+		"position": [-122.069622, 37.766775],
+		"id": "seed_239",
+		"value": 70,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.19796, 37.485581],
+		"id": "seed_240",
+		"value": 16,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.051624, 37.807977],
+		"id": "seed_241",
+		"value": 77,
+		"category": "beta"
+	},
+	{
+		"position": [-122.211285, 37.71285],
+		"id": "seed_242",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.232234, 37.72815],
+		"id": "seed_243",
+		"value": 48
+	},
+	{
+		"position": [-122.647522, 37.956563],
+		"id": "seed_244",
+		"value": 27,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.482126, 37.978569],
+		"value": 22,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.732023, 37.805645],
+		"id": "seed_246",
+		"value": 22,
+		"category": "beta"
+	},
+	{
+		"position": [-122.787943, 37.740293],
+		"id": "seed_247",
+		"value": 63,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.250686, 37.49708],
+		"id": "seed_248",
+		"value": 26,
+		"category": "delta"
+	},
+	{
+		"position": [-122.659907, 37.921085],
+		"id": "seed_249",
+		"value": 87,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.836759, 38.018245],
+		"id": "seed_250",
+		"value": 13,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.285377, 37.503098],
+		"id": "seed_251",
+		"value": 98,
+		"category": "beta"
+	},
+	{
+		"position": [-122.430593, 37.51091],
+		"value": 42
+	},
+	{
+		"position": [-122.593242, 37.88609],
+		"id": "seed_253",
+		"category": "delta"
+	},
+	{
+		"position": [-122.822207, 38.071706],
+		"id": "seed_254",
+		"value": 17,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.140828, 37.903383],
+		"id": "seed_255",
+		"value": 9,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.205814, 37.483309],
+		"id": "seed_256",
+		"value": 1,
+		"category": "beta"
+	},
+	{
+		"position": [-122.514608, 37.627297],
+		"id": "seed_257",
+		"value": 60,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.769982, 37.520353],
+		"id": "seed_258",
+		"value": 51,
+		"category": "delta"
+	},
+	{
+		"position": [-122.625468, 38.055252],
+		"value": 70,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.411396, 37.82236],
+		"id": "seed_260",
+		"value": 85,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.704116, 37.782317],
+		"id": "seed_261",
+		"value": 81
+	},
+	{
+		"position": [-122.581323, 37.626377],
+		"id": "seed_262",
+		"value": 32,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.349958, 37.579253],
+		"id": "seed_263",
+		"value": 98,
+		"category": "delta"
+	},
+	{
+		"position": [-122.659207, 37.658906],
+		"id": "seed_264",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.339343, 37.854602],
+		"id": "seed_265",
+		"value": 99,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.818494, 37.887934],
+		"value": 24,
+		"category": "beta"
+	},
+	{
+		"position": [-122.392142, 37.973875],
+		"id": "seed_267",
+		"value": 42,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.47935, 37.922593],
+		"id": "seed_268",
+		"value": 68,
+		"category": "delta"
+	},
+	{
+		"position": [-122.378707, 37.510056],
+		"id": "seed_269",
+		"value": 19,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.755784, 38.064155],
+		"id": "seed_270",
+		"value": 88
+	},
+	{
+		"position": [-122.792294, 37.85735],
+		"id": "seed_271",
+		"value": 82,
+		"category": "beta"
+	},
+	{
+		"position": [-122.665973, 37.583173],
+		"id": "seed_272",
+		"value": 30,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.436056, 37.557789],
+		"value": 50,
+		"category": "delta"
+	},
+	{
+		"position": [-122.790288, 38.012859],
+		"id": "seed_274",
+		"value": 66,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.518649, 37.920591],
+		"id": "seed_275",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.21507, 37.812881],
+		"id": "seed_276",
+		"value": 3,
+		"category": "beta"
+	},
+	{
+		"position": [-122.389117, 37.734638],
+		"id": "seed_277",
+		"value": 66,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.737022, 37.590032],
+		"id": "seed_278",
+		"value": 6,
+		"category": "delta"
+	},
+	{
+		"position": [-122.376801, 37.503146],
+		"id": "seed_279",
+		"value": 96
+	},
+	{
+		"position": [-122.661408, 37.936606],
+		"value": 79,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.273312, 37.989419],
+		"id": "seed_281",
+		"value": 23,
+		"category": "beta"
+	},
+	{
+		"position": [-122.786655, 37.741626],
+		"id": "seed_282",
+		"value": 76,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.05884, 37.915553],
+		"id": "seed_283",
+		"value": 44,
+		"category": "delta"
+	},
+	{
+		"position": [-122.302627, 37.743675],
+		"id": "seed_284",
+		"value": 84,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.677386, 37.666063],
+		"id": "seed_285",
+		"value": 21,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.623786, 37.576003],
+		"id": "seed_286",
+		"category": "beta"
+	},
+	{
+		"position": [-122.679302, 37.676324],
+		"value": 59,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.19863, 37.54497],
+		"id": "seed_288",
+		"value": 24
+	},
+	{
+		"position": [-122.216908, 37.904446],
+		"id": "seed_289",
+		"value": 85,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.200744, 37.55243],
+		"id": "seed_290",
+		"value": 66,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.358678, 38.024138],
+		"id": "seed_291",
+		"value": 43,
+		"category": "beta"
+	},
+	{
+		"position": [-122.580677, 37.811966],
+		"id": "seed_292",
+		"value": 89,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.617391, 37.714794],
+		"id": "seed_293",
+		"value": 79,
+		"category": "delta"
+	},
+	{
+		"position": [-122.807333, 37.704554],
+		"value": 13,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.359219, 37.892857],
+		"id": "seed_295",
+		"value": 25,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.167882, 37.502646],
+		"id": "seed_296",
+		"value": 48,
+		"category": "beta"
+	},
+	{
+		"position": [-122.593289, 37.515025],
+		"id": "seed_297"
+	},
+	{
+		"position": [-122.489195, 37.53953],
+		"id": "seed_298",
+		"value": 75,
+		"category": "delta"
+	},
+	{
+		"position": [-122.435635, 37.867044],
+		"id": "seed_299",
+		"value": 14,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.290485, 37.638601],
+		"id": "seed_300",
+		"value": 65,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.425556, 37.706085],
+		"value": 41,
+		"category": "beta"
+	},
+	{
+		"position": [-122.811218, 37.906195],
+		"id": "seed_302",
+		"value": 68,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.355434, 38.024474],
+		"id": "seed_303",
+		"value": 75,
+		"category": "delta"
+	},
+	{
+		"position": [-122.288499, 37.810882],
+		"id": "seed_304",
+		"value": 53,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.446708, 37.950176],
+		"id": "seed_305",
+		"value": 20,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.254437, 37.480026],
+		"id": "seed_306",
+		"value": 49
+	},
+	{
+		"position": [-122.219476, 38.078745],
+		"id": "seed_307",
+		"value": 77,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.326371, 37.690069],
+		"category": "delta"
+	},
+	{
+		"position": [-122.358895, 37.523823],
+		"id": "seed_309",
+		"value": 14,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.592788, 37.939096],
+		"id": "seed_310",
+		"value": 27,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.573491, 37.816314],
+		"id": "seed_311",
+		"value": 53,
+		"category": "beta"
+	},
+	{
+		"position": [-122.41201, 37.667173],
+		"id": "seed_312",
+		"value": 84,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.379802, 37.747275],
+		"id": "seed_313",
+		"value": 91,
+		"category": "delta"
+	},
+	{
+		"position": [-122.28104, 37.911134],
+		"id": "seed_314",
+		"value": 15,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.707211, 37.823823],
+		"value": 78
+	},
+	{
+		"position": [-122.580068, 37.636772],
+		"id": "seed_316",
+		"value": 95,
+		"category": "beta"
+	},
+	{
+		"position": [-122.64821, 37.610176],
+		"id": "seed_317",
+		"value": 23,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.828576, 37.760749],
+		"id": "seed_318",
+		"value": 83,
+		"category": "delta"
+	},
+	{
+		"position": [-122.127708, 37.846474],
+		"id": "seed_319",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.198938, 38.048195],
+		"id": "seed_320",
+		"value": 60,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.811807, 38.032634],
+		"id": "seed_321",
+		"value": 56,
+		"category": "beta"
+	},
+	{
+		"position": [-122.256006, 37.879053],
+		"value": 86,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.076083, 38.040952],
+		"id": "seed_323",
+		"value": 59,
+		"category": "delta"
+	},
+	{
+		"position": [-122.628937, 37.524505],
+		"id": "seed_324",
+		"value": 49
+	},
+	{
+		"position": [-122.39909, 37.625672],
+		"id": "seed_325",
+		"value": 45,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.487184, 37.553185],
+		"id": "seed_326",
+		"value": 25,
+		"category": "beta"
+	},
+	{
+		"position": [-122.738502, 37.531099],
+		"id": "seed_327",
+		"value": 82,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.541148, 37.622181],
+		"id": "seed_328",
+		"value": 3,
+		"category": "delta"
+	},
+	{
+		"position": [-122.522647, 37.496477],
+		"value": 94,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.568942, 37.814755],
+		"id": "seed_330",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.186137, 37.651235],
+		"id": "seed_331",
+		"value": 34,
+		"category": "beta"
+	},
+	{
+		"position": [-122.849508, 37.883439],
+		"id": "seed_332",
+		"value": 6,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.598356, 37.849825],
+		"id": "seed_333",
+		"value": 39
+	},
+	{
+		"position": [-122.108455, 37.683334],
+		"id": "seed_334",
+		"value": 14,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.058411, 38.026089],
+		"id": "seed_335",
+		"value": 13,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.094349, 37.978538],
+		"value": 39,
+		"category": "beta"
+	},
+	{
+		"position": [-122.092938, 37.506919],
+		"id": "seed_337",
+		"value": 20,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.201574, 37.910751],
+		"id": "seed_338",
+		"value": 17,
+		"category": "delta"
+	},
+	{
+		"position": [-122.280416, 37.486099],
+		"id": "seed_339",
+		"value": 86,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.362982, 37.935044],
+		"id": "seed_340",
+		"value": 92,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.73926, 38.022222],
+		"id": "seed_341",
+		"category": "beta"
+	},
+	{
+		"position": [-122.436736, 37.64552],
+		"id": "seed_342",
+		"value": 86
+	},
+	{
+		"position": [-122.241792, 37.540628],
+		"value": 34,
+		"category": "delta"
+	},
+	{
+		"position": [-122.38759, 37.676977],
+		"id": "seed_344",
+		"value": 5,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.788073, 38.05606],
+		"id": "seed_345",
+		"value": 47,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.486724, 37.71284],
+		"id": "seed_346",
+		"value": 99,
+		"category": "beta"
+	},
+	{
+		"position": [-122.505168, 37.515785],
+		"id": "seed_347",
+		"value": 91,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.3893, 37.761349],
+		"id": "seed_348",
+		"value": 65,
+		"category": "delta"
+	},
+	{
+		"position": [-122.471316, 37.497744],
+		"id": "seed_349",
+		"value": 97,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.392556, 37.618314],
+		"value": 58,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.280547, 37.501661],
+		"id": "seed_351",
+		"value": 60
+	},
+	{
+		"position": [-122.418686, 37.705812],
+		"id": "seed_352",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.309665, 37.918234],
+		"id": "seed_353",
+		"value": 93,
+		"category": "delta"
+	},
+	{
+		"position": [-122.581888, 38.078638],
+		"id": "seed_354",
+		"value": 28,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.218556, 37.919424],
+		"id": "seed_355",
+		"value": 64,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.245911, 37.777232],
+		"id": "seed_356",
+		"value": 48,
+		"category": "beta"
+	},
+	{
+		"position": [-122.354834, 37.945884],
+		"value": 17,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.350141, 37.856588],
+		"id": "seed_358",
+		"value": 5,
+		"category": "delta"
+	},
+	{
+		"position": [-122.439441, 37.961822],
+		"id": "seed_359",
+		"value": 38,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.107645, 37.862317],
+		"id": "seed_360",
+		"value": 1
+	},
+	{
+		"position": [-122.776239, 37.623042],
+		"id": "seed_361",
+		"value": 87,
+		"category": "beta"
+	},
+	{
+		"position": [-122.192989, 37.501366],
+		"id": "seed_362",
+		"value": 18,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.629853, 37.893209],
+		"id": "seed_363",
+		"category": "delta"
+	},
+	{
+		"position": [-122.73585, 38.010307],
+		"value": 55,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.115658, 37.854248],
+		"id": "seed_365",
+		"value": 81,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.321645, 37.580744],
+		"id": "seed_366",
+		"value": 63,
+		"category": "beta"
+	},
+	{
+		"position": [-122.245873, 37.551961],
+		"id": "seed_367",
+		"value": 32,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.446862, 37.666306],
+		"id": "seed_368",
+		"value": 92,
+		"category": "delta"
+	},
+	{
+		"position": [-122.280979, 37.834177],
+		"id": "seed_369",
+		"value": 99
+	},
+	{
+		"position": [-122.560542, 38.000937],
+		"id": "seed_370",
+		"value": 88,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.500975, 37.88043],
+		"value": 78,
+		"category": "beta"
+	},
+	{
+		"position": [-122.097951, 37.521966],
+		"id": "seed_372",
+		"value": 83,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.136338, 37.613486],
+		"id": "seed_373",
+		"value": 19,
+		"category": "delta"
+	},
+	{
+		"position": [-122.302301, 37.527763],
+		"id": "seed_374",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.50614, 38.079651],
+		"id": "seed_375",
+		"value": 65,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.610151, 37.91316],
+		"id": "seed_376",
+		"value": 93,
+		"category": "beta"
+	},
+	{
+		"position": [-122.310233, 37.887187],
+		"id": "seed_377",
+		"value": 41,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.162331, 37.870613],
+		"value": 23
+	},
+	{
+		"position": [-122.37893, 37.618308],
+		"id": "seed_379",
+		"value": 88,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.383222, 37.663352],
+		"id": "seed_380",
+		"value": 82,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.466879, 37.964699],
+		"id": "seed_381",
+		"value": 26,
+		"category": "beta"
+	},
+	{
+		"position": [-122.504138, 37.562687],
+		"id": "seed_382",
+		"value": 28,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.182588, 38.004323],
+		"id": "seed_383",
+		"value": 8,
+		"category": "delta"
+	},
+	{
+		"position": [-122.278039, 37.546676],
+		"id": "seed_384",
+		"value": 27,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.493112, 37.830858],
+		"category": "alpha"
+	},
+	{
+		"position": [-122.344303, 38.057181],
+		"id": "seed_386",
+		"value": 26,
+		"category": "beta"
+	},
+	{
+		"position": [-122.817286, 37.798443],
+		"id": "seed_387",
+		"value": 83
+	},
+	{
+		"position": [-122.297799, 37.867538],
+		"id": "seed_388",
+		"value": 60,
+		"category": "delta"
+	},
+	{
+		"position": [-122.472046, 37.712038],
+		"id": "seed_389",
+		"value": 12,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.781258, 37.985939],
+		"id": "seed_390",
+		"value": 3,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.844812, 37.497869],
+		"id": "seed_391",
+		"value": 41,
+		"category": "beta"
+	},
+	{
+		"position": [-122.211906, 38.026259],
+		"value": 19,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.10005, 37.94025],
+		"id": "seed_393",
+		"value": 80,
+		"category": "delta"
+	},
+	{
+		"position": [-122.58191, 37.577098],
+		"id": "seed_394",
+		"value": 24,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.469299, 37.618842],
+		"id": "seed_395",
+		"value": 17,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.686478, 37.81299],
+		"id": "seed_396"
+	},
+	{
+		"position": [-122.477925, 37.993705],
+		"id": "seed_397",
+		"value": 46,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.392774, 37.527085],
+		"id": "seed_398",
+		"value": 78,
+		"category": "delta"
+	},
+	{
+		"position": [-122.15297, 37.642031],
+		"value": 10,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.489831, 37.690997],
+		"id": "seed_400",
+		"value": 95,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.283009, 37.967096],
+		"id": "seed_401",
+		"value": 10,
+		"category": "beta"
+	},
+	{
+		"position": [-122.265806, 37.905726],
+		"id": "seed_402",
+		"value": 10,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.687754, 37.931657],
+		"id": "seed_403",
+		"value": 99,
+		"category": "delta"
+	},
+	{
+		"position": [-122.561982, 37.960331],
+		"id": "seed_404",
+		"value": 57,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.848157, 37.910296],
+		"id": "seed_405",
+		"value": 9
+	},
+	{
+		"position": [-122.247751, 37.624093],
+		"value": 67,
+		"category": "beta"
+	},
+	{
+		"position": [-122.057361, 38.041948],
+		"id": "seed_407",
+		"category": "gamma"
+	},
+	{
+		"position": [-122.682585, 37.575969],
+		"id": "seed_408",
+		"value": 76,
+		"category": "delta"
+	},
+	{
+		"position": [-122.093503, 37.54285],
+		"id": "seed_409",
+		"value": 5,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.28934, 37.94976],
+		"id": "seed_410",
+		"value": 63,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.697292, 37.524566],
+		"id": "seed_411",
+		"value": 14,
+		"category": "beta"
+	},
+	{
+		"position": [-122.143219, 37.921783],
+		"id": "seed_412",
+		"value": 14,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.087104, 37.670355],
+		"value": 88,
+		"category": "delta"
+	},
+	{
+		"position": [-122.245514, 37.897521],
+		"id": "seed_414",
+		"value": 75
+	},
+	{
+		"position": [-122.409033, 37.58211],
+		"id": "seed_415",
+		"value": 14,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.393656, 37.758167],
+		"id": "seed_416",
+		"value": 2,
+		"category": "beta"
+	},
+	{
+		"position": [-122.653837, 38.05927],
+		"id": "seed_417",
+		"value": 37,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.628903, 37.505886],
+		"id": "seed_418",
+		"category": "delta"
+	},
+	{
+		"position": [-122.121108, 37.589114],
+		"id": "seed_419",
+		"value": 39,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.689785, 37.741585],
+		"value": 48,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.161232, 37.526803],
+		"id": "seed_421",
+		"value": 58,
+		"category": "beta"
+	},
+	{
+		"position": [-122.427883, 37.70225],
+		"id": "seed_422",
+		"value": 58,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.413527, 37.748902],
+		"id": "seed_423",
+		"value": 25
+	},
+	{
+		"position": [-122.144406, 37.567596],
+		"id": "seed_424",
+		"value": 14,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.609995, 37.561198],
+		"id": "seed_425",
+		"value": 17,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.652242, 37.847285],
+		"id": "seed_426",
+		"value": 47,
+		"category": "beta"
+	},
+	{
+		"position": [-122.407066, 37.864137],
+		"value": 63,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.298014, 37.518712],
+		"id": "seed_428",
+		"value": 69,
+		"category": "delta"
+	},
+	{
+		"position": [-122.107028, 37.726299],
+		"id": "seed_429",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.594247, 38.053182],
+		"id": "seed_430",
+		"value": 58,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.671551, 37.850229],
+		"id": "seed_431",
+		"value": 42,
+		"category": "beta"
+	},
+	{
+		"position": [-122.797901, 37.931446],
+		"id": "seed_432",
+		"value": 1
+	},
+	{
+		"position": [-122.453352, 37.637184],
+		"id": "seed_433",
+		"value": 17,
+		"category": "delta"
+	},
+	{
+		"position": [-122.213331, 37.942034],
+		"value": 91,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.13549, 37.767718],
+		"id": "seed_435",
+		"value": 40,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.761064, 37.760916],
+		"id": "seed_436",
+		"value": 54,
+		"category": "beta"
+	},
+	{
+		"position": [-122.079995, 37.84882],
+		"id": "seed_437",
+		"value": 3,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.556667, 37.677031],
+		"id": "seed_438",
+		"value": 51,
+		"category": "delta"
+	},
+	{
+		"position": [-122.220423, 37.955578],
+		"id": "seed_439",
+		"value": 10,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.615062, 37.854167],
+		"id": "seed_440",
+		"category": "alpha"
+	},
+	{
+		"position": [-122.442856, 37.560459],
+		"value": 42
+	},
+	{
+		"position": [-122.401014, 37.495487],
+		"id": "seed_442",
+		"value": 47,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.681117, 37.833472],
+		"id": "seed_443",
+		"value": 17,
+		"category": "delta"
+	},
+	{
+		"position": [-122.745522, 38.065313],
+		"id": "seed_444",
+		"value": 80,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.482388, 37.544934],
+		"id": "seed_445",
+		"value": 41,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.818138, 37.592184],
+		"id": "seed_446",
+		"value": 62,
+		"category": "beta"
+	},
+	{
+		"position": [-122.727181, 37.775642],
+		"id": "seed_447",
+		"value": 66,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.191536, 37.786296],
+		"value": 48,
+		"category": "delta"
+	},
+	{
+		"position": [-122.069576, 38.037411],
+		"id": "seed_449",
+		"value": 88,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.456778, 37.791729],
+		"id": "seed_450",
+		"value": 52
+	},
+	{
+		"position": [-122.24828, 37.676367],
+		"id": "seed_451",
+		"category": "beta"
+	},
+	{
+		"position": [-122.766396, 37.772967],
+		"id": "seed_452",
+		"value": 56,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.830236, 37.711005],
+		"id": "seed_453",
+		"value": 12,
+		"category": "delta"
+	},
+	{
+		"position": [-122.500554, 38.067948],
+		"id": "seed_454",
+		"value": 50,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.451755, 37.976817],
+		"value": 47,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.594064, 38.077545],
+		"id": "seed_456",
+		"value": 61,
+		"category": "beta"
+	},
+	{
+		"position": [-122.823265, 37.600004],
+		"id": "seed_457",
+		"value": 88,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.160332, 38.058908],
+		"id": "seed_458",
+		"value": 66,
+		"category": "delta"
+	},
+	{
+		"position": [-122.321154, 37.972874],
+		"id": "seed_459",
+		"value": 29
+	},
+	{
+		"position": [-122.086068, 37.590134],
+		"id": "seed_460",
+		"value": 5,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.360471, 37.894221],
+		"id": "seed_461",
+		"value": 21,
+		"category": "beta"
+	},
+	{
+		"position": [-122.727786, 37.913585],
+		"category": "gamma"
+	},
+	{
+		"position": [-122.245011, 37.986414],
+		"id": "seed_463",
+		"value": 8,
+		"category": "delta"
+	},
+	{
+		"position": [-122.646464, 37.87383],
+		"id": "seed_464",
+		"value": 79,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.203572, 37.616999],
+		"id": "seed_465",
+		"value": 89,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.411019, 37.667775],
+		"id": "seed_466",
+		"value": 54,
+		"category": "beta"
+	},
+	{
+		"position": [-122.248125, 37.601251],
+		"id": "seed_467",
+		"value": 3,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.543489, 37.890343],
+		"id": "seed_468",
+		"value": 76
+	},
+	{
+		"position": [-122.19068, 37.572729],
+		"value": 2,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.695721, 38.030076],
+		"id": "seed_470",
+		"value": 88,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.181593, 37.583391],
+		"id": "seed_471",
+		"value": 74,
+		"category": "beta"
+	},
+	{
+		"position": [-122.788559, 38.014616],
+		"id": "seed_472",
+		"value": 84,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.233736, 37.840663],
+		"id": "seed_473",
+		"category": "delta"
+	},
+	{
+		"position": [-122.592027, 37.490182],
+		"id": "seed_474",
+		"value": 12,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.321639, 37.95592],
+		"id": "seed_475",
+		"value": 31,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.175974, 37.935993],
+		"value": 23,
+		"category": "beta"
+	},
+	{
+		"position": [-122.150591, 37.989842],
+		"id": "seed_477",
+		"value": 56
+	},
+	{
+		"position": [-122.654833, 37.995566],
+		"id": "seed_478",
+		"value": 22,
+		"category": "delta"
+	},
+	{
+		"position": [-122.698172, 37.514885],
+		"id": "seed_479",
+		"value": 63,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.678003, 37.78411],
+		"id": "seed_480",
+		"value": 86,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.611033, 37.899097],
+		"id": "seed_481",
+		"value": 11,
+		"category": "beta"
+	},
+	{
+		"position": [-122.592315, 37.493381],
+		"id": "seed_482",
+		"value": 7,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.766365, 38.025719],
+		"value": 58,
+		"category": "delta"
+	},
+	{
+		"position": [-122.140017, 37.70695],
+		"id": "seed_484",
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.278039, 37.988206],
+		"id": "seed_485",
+		"value": 80,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.280258, 37.873556],
+		"id": "seed_486",
+		"value": 30
+	},
+	{
+		"position": [-122.229141, 38.059312],
+		"id": "seed_487",
+		"value": 41,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.501638, 37.948459],
+		"id": "seed_488",
+		"value": 58,
+		"category": "delta"
+	},
+	{
+		"position": [-122.096459, 37.738547],
+		"id": "seed_489",
+		"value": 29,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.490924, 37.593651],
+		"value": 29,
+		"category": "alpha"
+	},
+	{
+		"position": [-122.44914, 37.808882],
+		"id": "seed_491",
+		"value": 59,
+		"category": "beta"
+	},
+	{
+		"position": [-122.552391, 38.008337],
+		"id": "seed_492",
+		"value": 16,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.758508, 37.480359],
+		"id": "seed_493",
+		"value": 30,
+		"category": "delta"
+	},
+	{
+		"position": [-122.431128, 38.008172],
+		"id": "seed_494",
+		"value": 86,
+		"category": "epsilon"
+	},
+	{
+		"position": [-122.19939, 37.991455],
+		"id": "seed_495"
+	},
+	{
+		"position": [-122.535567, 37.48238],
+		"id": "seed_496",
+		"value": 81,
+		"category": "beta"
+	},
+	{
+		"position": [-122.216658, 38.003916],
+		"value": 47,
+		"category": "gamma"
+	},
+	{
+		"position": [-122.681446, 37.917308],
+		"id": "seed_498",
+		"value": 3,
+		"category": "delta"
+	},
+	{
+		"position": [-122.525019, 37.499637],
+		"id": "seed_499",
+		"value": 37,
+		"category": "epsilon"
+	}
+]
